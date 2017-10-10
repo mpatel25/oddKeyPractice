@@ -1,2 +1,2 @@
 # oddKeyPractice
-## A small script to practice odd keys on the keyboard.
+### A small script to practice odd keys on the keyboard.
